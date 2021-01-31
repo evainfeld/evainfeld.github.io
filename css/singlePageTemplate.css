@@ -51,14 +51,14 @@ nav {
 	margin-right: 20px;
 	text-shadow:
     -1px -1px 0 #000,
-    1px 1px 0 #d0fbfb;
+    1px 1px 0 ##242424;
 }
 header nav ul {
 	list-style: none;
 	float: right;
 }
-a:link {color:#1cc1d4;}
-a:visited {color:#70f2f4;}
+a:link {color:##24247c;}
+a:visited {color:##24247c;}
 nav ul li {
 	float: left;
 	color: #FFFFFF;
