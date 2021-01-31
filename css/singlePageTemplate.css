@@ -24,8 +24,6 @@ header {
 	height: 25%;
 	background-color: #242424;
 	border-bottom: 1px solid #2C9AB7;
-	background: url('../images/hero.JPG') no-repeat fixed center center;	
-	background-width: 100%;
 }
 .logo {
 	color: #fff;
