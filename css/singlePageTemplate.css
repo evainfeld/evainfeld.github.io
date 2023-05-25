@@ -136,6 +136,26 @@ ul li:hover a {
 	padding-right: 6px;
 	color: #242424;
 	}
+.column_space {
+		width: 2%;
+		text-align: justify;
+		font-weight: lighter;
+		line-height: 25px;
+		float: left;
+		padding-left: 6px;
+		padding-right: 6px;
+		color: #242424;
+		}
+.mini_column2 {
+	width: 21%;
+	text-align: justify;
+	font-weight: lighter;
+	line-height: 25px;
+	float: left;
+	padding-left: 6px;
+	padding-right: 6px;
+	color: #242424;
+	}
 .text_column {
 	width: 29%;
 	text-align: justify;
