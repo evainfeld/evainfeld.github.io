@@ -8,8 +8,10 @@ a:link {color:#fff;}
 	float: left;
 	padding-left: 20px;
 	padding-right: 20px;
-	color: #fff;
   font-family: 'Exo 2';
+  font-size: 12pt;
+  font-weight: 700;
+  color: #c2c9e4;
 	}
 .medium_column {
 	width: 63%;
