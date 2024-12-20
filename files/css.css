@@ -51,7 +51,7 @@ a:link {color:#fff;}
 	font-weight: lighter;
 	line-height: 25px;
 	float: left;
-	padding-left: 6px;
+	padding-left: 7%;
 	padding-right: 6px;
 	color: #0032e8;
 	}
@@ -66,6 +66,28 @@ a:link {color:#fff;}
   font-family: 'Exo 2';
   font-size: 12pt;
   font-weight: 700;
+  color: #c2c9e4;
+}
+.text_column strong{
+	color: #fff;
+	font-family: 'Exo 2';
+	font-size: 32px;
+	font-weight: bold;
+	line-height: 30px;
+	margin: 5px 0 5px 0;
+	word-break: break-word;
+}
+.text_column2 {
+	width: 75%;
+	text-align: justify;
+	font-weight: lighter;
+	line-height: 25px;
+	float: left;
+	padding-left: 10px;
+	padding-right: 7%;
+  font-family: 'Exo 2';
+  font-size: 16pt;
+  font-weight: 600;
   color: #c2c9e4;
 }
 .science {
