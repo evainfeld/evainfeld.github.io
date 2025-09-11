@@ -173,6 +173,24 @@ a:link {color:#fff;}
 	margin-left: 0px;
 }
 
+
+@media (max-width: 1200px) {
+.text_column{
+  width:45%;
+}
+.text_column2{
+  width: 90%
+}
+}
+
+
+@media (max-width: 767px) {
+.text_column{
+  width:95%;
+}
+}
+
+
 @font-face {
   font-family: 'termina';
   src: url('fonts/Termina.woff') format('woff');
